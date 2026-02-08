@@ -22,3 +22,7 @@ A Python-based quant finance toolkit implementing key models used in portfolio o
 
 ## Repository Structure
 
+## Efficient Frontier Example
+
+![Efficient Frontier](reports/figures/efficient_frontier.png)
+
